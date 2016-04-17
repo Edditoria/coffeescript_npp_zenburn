@@ -21,11 +21,11 @@ I also created *Markdown syntax highlighting*: [link][markdown]
 
 ## How to Use?
 
-1. Download the CoffeeScript language definition file: [userDefineLang.xml][zenburn_xml]
+1. Download the CoffeeScript language definition file: [userDefineLang_coffeescript_dark.xml][zenburn_xml]
 2. In Notepad++ menu, click `Language` and select `Define your language...`.
 3. In User Defined Language windows, click `Import` then open the xml file.
 4. Restart Notepad++.
-5. Test with a CoffeeScript file.
+5. Open and test with a CoffeeScript file e.g. [test.coffee][test_file]
 
 **Enjoy!!**
 
@@ -87,7 +87,8 @@ THE SOFTWARE.
 [markdown]: https://github.com/Edditoria/markdown_npp_zenburn
 [blakmatrix]: https://github.com/blakmatrix/CoffeeScript_notepad_UDL
 [screen_zenburn]: /coffeescript_npp_zenburn_screenshot.png "CoffeeScript in Zenburn Theme of Notepad++"
-[zenburn_xml]: https://raw.githubusercontent.com/Edditoria/coffeescript_npp_zenburn/master/userDefineLang.xml
+[zenburn_xml]: https://raw.githubusercontent.com/Edditoria/coffeescript_npp_zenburn/master/userDefineLang_coffeescript_dark.xml
+[test_file]: https://raw.githubusercontent.com/Edditoria/coffeescript_npp_zenburn/master/test.coffee
 [twitter]: http://twitter.com/Edditoria
 [fb]: http://www.facebook.com/Edditoria
 [gplus]: https://plus.google.com/109579889772726782010/about
