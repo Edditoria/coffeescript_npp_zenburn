@@ -92,8 +92,8 @@ THE SOFTWARE.
 
 [markdown]: https://github.com/Edditoria/markdown_npp_zenburn
 [blakmatrix]: https://github.com/blakmatrix/CoffeeScript_notepad_UDL
-[screen_zenburn]: /Edditoria/coffeescript_npp_zenburn/raw/master/coffeescript_npp_zenburn_screenshot.png "CoffeeScript in Zenburn Theme of Notepad++"
-[zenburn_xml]: /Edditoria/coffeescript_npp_zenburn/blob/master/userDefineLang.xml
+[screen_zenburn]: /coffeescript_npp_zenburn_screenshot.png "CoffeeScript in Zenburn Theme of Notepad++"
+[zenburn_xml]: https://raw.githubusercontent.com/Edditoria/coffeescript_npp_zenburn/master/userDefineLang.xml
 [twitter]: http://twitter.com/Edditoria
 [fb]: http://www.facebook.com/Edditoria
 [gplus]: https://plus.google.com/109579889772726782010/about
