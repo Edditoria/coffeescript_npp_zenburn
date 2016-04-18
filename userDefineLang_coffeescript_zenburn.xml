@@ -1,9 +1,9 @@
 <NotepadPlus>
-    <UserLang name="CoffeeScript (Zenburn)" ext="coffee coco cakefile" udlVersion="2.0">
+    <UserLang name="CoffeeScript (Zenburn)" ext="coffee coco cakefile" udlVersion="2.1">
         <!-- Modified by Edditoria, originally created by Farrin A. Reid,
         see https://github.com/Edditoria/CoffeeScript_npp_zenburn for latest version -->
         <Settings>
-            <Global caseIgnored="no" allowFoldOfComments="yes" />
+            <Global caseIgnored="no" allowFoldOfComments="yes"  foldCompact="no" forcePureLC="0" decimalSeparator="0" />
             <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="yes" />
         </Settings>
         <KeywordLists>

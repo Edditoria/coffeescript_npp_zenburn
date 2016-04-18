@@ -21,7 +21,7 @@ I also created *Markdown syntax highlighting*: [link][markdown]
 
 ## How to Use?
 
-1. Download the CoffeeScript language definition file: [userDefineLang_coffeescript_dark.xml][zenburn_xml]
+1. Download the CoffeeScript language definition file: [userDefineLang_coffeescript_zenburn.xml][zenburn_xml]
 2. In Notepad++ menu, click `Language` and select `Define your language...`.
 3. In User Defined Language windows, click `Import` then open the xml file.
 4. Restart Notepad++.
