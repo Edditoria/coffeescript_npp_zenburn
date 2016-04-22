@@ -35,7 +35,7 @@ Need your input to solve the following problems:
 
 * Doesn't parse embedded statements, e.g. `"#{pancake} is delicious"`
 * Doesn't parse RegEx, e.g. `/coffee/gm`
-* Block comments will be parsed `### this ###`
+* Doesn't parse comments, e.g. `a = 1 # test`
 
 ## Please Comment
 
