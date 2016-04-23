@@ -33,7 +33,6 @@ I also created *Markdown syntax highlighting*: [link][markdown]
 
 Need your input to solve the following problems:
 
-* Doesn't parse comments at all, e.g. `a = 1 # test` \[\!bug\]
 * Doesn't parse embedded statements, e.g. `"#{pancake} is delicious"`
 * Doesn't parse RegEx, e.g. `/coffee/gm`
 
